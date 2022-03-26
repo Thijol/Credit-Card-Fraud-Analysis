@@ -20,7 +20,7 @@ Now, our dataset is ready for applying to any machine learning algorithm.
 
 ### 3.Model Training:
 
-I have divided the dataset into train and test using the train_test_split method of sklearn library.
+Divide the dataset into train and test using the train_test_split method of sklearn library.
 
 For training the dataset, I have used two classification algorithms Decision Tree and AdaBoost. Although, the dataset is imbalanced, but we need not to handle the imbalanced dataset as these two classification algorithm will take care of the imbalanced dataset.
 
